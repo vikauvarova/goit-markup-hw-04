@@ -1,0 +1,12 @@
+.features-items{
+    display: flex;
+    gap: 24px;
+}
+
+.features-item{
+    width: calc((100% - 24px*3)/4);
+}
+
+.feature-title{
+    margin-bottom: 8px;
+}

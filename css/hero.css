@@ -1,0 +1,38 @@
+.hero{
+    background: #2E2F42;
+    color: white;
+    text-align: center;
+}
+
+.hero.section {
+    padding: 188px 0;
+}
+
+.main-heading{
+    margin: 0;
+    padding: 0 0 48px 0;
+}
+
+.hero-content{
+    max-width: 496px;
+    margin: 0 auto;
+}
+
+.btn {
+    color: white;
+    background-color: #4D5AE5;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+    font-family:"Roboto", sans-serif;
+    cursor: pointer;
+    padding: 16px 32px;
+    border-radius: 4px;
+    border: none;
+}
+
+.btn:hover, .btn:focus{
+    background-color: #404BBF;
+
+}

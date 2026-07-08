@@ -1,0 +1,21 @@
+.portfolio-items{
+    display: flex;
+    gap: 48px 24px;
+    flex-wrap: wrap;
+}
+
+.portfolio-item{
+    width: calc((100% - 24px*2)/3);
+}
+
+
+.portfolio-text{
+    padding: 32px 16px;
+    border: 1px solid #E7E9FC;
+    border-top: none;
+
+}
+
+.portfolio-heding{
+    margin-bottom: 8px;
+}
