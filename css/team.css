@@ -26,3 +26,22 @@
 .role{
     text-align: center;
 }
+
+.social-icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-link{
+    color: #F4F4FD;
+}
+
+.social-icon{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background: #4D5AE5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

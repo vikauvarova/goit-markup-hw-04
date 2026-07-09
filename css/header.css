@@ -58,7 +58,14 @@
     color: #404BBF;
 }
 
-.navigation-link:active {
+.navigation-item::after {
+    content: '';
+    display: block;
+    border-radius: 2px;
+    width: 100%;
+    height: 4px;
+    background-color: #404BBF;
+    bottom: 0;
 }
 
 .contact-item{
