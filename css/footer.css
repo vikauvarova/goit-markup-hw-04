@@ -38,10 +38,10 @@
     gap: 16px;
 }
 
-.social-link{
+.footer .social-link{
     transition: background-color 250ms ease-in-out;
 }
-.social-link:hover, .social-link:focus{
+.footer .social-link:hover, .footer.social-link:focus{
     background-color: #31D0AA;
 }
 
