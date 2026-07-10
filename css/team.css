@@ -44,8 +44,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms ease-in-out;
 }
 
 .social-link:hover, .social-link:focus{
     background-color: #404BBF;
+}
+
+.social-icon-svg{
+    fill: currentColor
 }
