@@ -20,3 +20,20 @@
 .footer-text{
     width: 264px;
 }
+
+.footer .container{
+    display: flex;
+}
+
+.left{
+    
+    margin-right: 120px;
+}
+
+.social-title{
+    margin-bottom: 16px;
+}
+.social-list{
+    display: flex;
+    gap: 16px;
+}
